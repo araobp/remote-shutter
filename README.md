@@ -1,2 +1,9 @@
-# remote-shutter
- Bluetooth remote shutter for Android
+# Bluetooth remote shutter for Android
+
+I bought a very cheap bluetooth remote shutter for iOS and Android.
+
+In this project, I will develop a library for my other projects to control Android remotely by using the remote shutter.
+
+
+
+
